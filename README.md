@@ -1,6 +1,6 @@
 # Architectual Designer
 
-#### Technical Skills: Python, SQL, AutoCAD, Rhino, Grasshopper
+#### Technical Skills: Python, AutoCAD, Rhino, Grasshopper
 
 ### Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)       		
