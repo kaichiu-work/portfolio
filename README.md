@@ -3,8 +3,8 @@
 #### Technical Skills: Python, AutoCAD, Rhino, Grasshopper
 
 ### Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	
+- M.Arch., Master of Architecture | Southern California Institute of Architecture (_May 2015_)       		
+- Bachelor of fine arts, Environmental Art | Otis College of Art and Design	
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
